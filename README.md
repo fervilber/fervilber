@@ -21,8 +21,10 @@ He escrito o participado en algunos libros:
 
 ## Blog 📚
 
-Soy autor del blog [enrdados.net](https://enrdados.netlify.app/), dedicado a la difusión de R como lenguaje de programación científico.
+Soy autor del blog [enrdados.net](https://enrdados.netlify.app/) dedicado a la difusión de R como lenguaje de programación científico.
 
-![rlogo](rlogo.sgv)
+![rlogo](logoR.jpg)
+
+Anímate, échale un vistazo:
 
 ▶️ https://enrdados.netlify.app/
