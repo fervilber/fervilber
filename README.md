@@ -27,4 +27,4 @@ Anímate, échale un vistazo:
 
 ▶️ https://enrdados.netlify.app/
 
-![rlogo](logoR.jpg)
+![rlogo](logoR1.jpg)
