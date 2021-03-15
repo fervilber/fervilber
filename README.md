@@ -8,23 +8,24 @@ Aquí puedes ver parte de mi y si te animas, también colaborar en estos proyect
 - 🔭 Trabajo en el mundo del agua  :sweat_drops:, desalación y distribución , pero mi pasión es crear cosas, y para esto uso **R el lenguaje de la ciencia**
 - 👯 En GitHub casi todo lo que comparto es de este maravilloso lenguaje :computer:
 - :earth_africa: Me gustan los mapas y R está genial para hacerlos  
-- Escribo principalmente en  :es: , mi lengua materna, pero hablo también la de los piratas :gb: del mar.
+- Escribo principalmente en :es: , mi lengua materna, pero hablo también la de los piratas :gb: del mar.
  
 - 📫 Contacto: <mailto:fervilber@gmail.com>
 
-## Libros
+## Libros 📚 
 
 He escrito o participado en algunos libros:
  - [Manual de R para el científico de datos](https://drive.google.com/open?id=1EoLm-rqr5eikmpodb90uIGyju6E1jBjZ)
  - [Memorias de un soldado](https://www.bubok.es/libros/266691/Memorias-de-un-soldado-1919-24)
  - [Aprendizaje supervisado en R](https://fervilber.github.io/Aprendizaje-supervisado-en-R/)
 
-## Blog 📚
+## Blog :rocket:
 
-Soy autor del blog [enrdados.net](https://enrdados.netlify.app/) dedicado a la difusión de R como lenguaje de programación científico.
+Soy autor del blog [enrdados.net](https://enrdados.netlify.app/) de educación y difusión de R como lenguaje de programación científico.
 
 Anímate, échale un vistazo:
 
 ▶️ https://enrdados.netlify.app/
 
+![enRdados](LogoenRdados_p.png)
 ![rlogo](logoR1.jpg)
