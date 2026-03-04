@@ -3,7 +3,7 @@ Soy fervilber.
 
 Estás en mi directorio público de github donde comparto ideas, proyectos y mucho entusiasmo.
 Aquí puedes ver parte de mi y si te animas, también colaborar en estos proyectos.
-- [mis proyectos personales](https://fervilber.github.io/glup/projects)
+- [mis proyectos personales](https://fervilber.github.io/glup/)
 - :runner: Soy un ser humano, del tipo: *Ingeniero de Caminos, Canales y Puertos*. (somos escasos y raros  :octocat:)
 - 🔭 Trabajo en el mundo del agua  :sweat_drops:, desalación y distribución , pero mi pasión es crear cosas, y para esto uso **R el lenguaje de la ciencia**
 - 👯 En GitHub casi todo lo que comparto es de este maravilloso lenguaje :computer:
