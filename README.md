@@ -3,14 +3,14 @@ Soy fervilber.
 
 Estás en mi directorio público de github donde comparto ideas, proyectos y mucho entusiasmo.
 Aquí puedes ver parte de mi y si te animas, también colaborar en estos proyectos.
-
--  :runner: Soy un ser humano, del tipo: *Ingeniero de Caminos, Canales y Puertos*. (somos escasos y raros  :octocat:)
+- [mis proyectos personales](https://fervilber.github.io/glup/projects)
+- :runner: Soy un ser humano, del tipo: *Ingeniero de Caminos, Canales y Puertos*. (somos escasos y raros  :octocat:)
 - 🔭 Trabajo en el mundo del agua  :sweat_drops:, desalación y distribución , pero mi pasión es crear cosas, y para esto uso **R el lenguaje de la ciencia**
 - 👯 En GitHub casi todo lo que comparto es de este maravilloso lenguaje :computer:
 - :earth_africa: Me gustan los mapas y R está genial para hacerlos  
 - Escribo principalmente en :es: , mi lengua materna, pero hablo también la de los piratas :gb: del mar.
  
-- 📫 Contacto: <mailto:fervilber@gmail.com>
+- 📫 Contacto: <mailto:contactovilber@pm.me>
 
 ## Libros 📚 
 
